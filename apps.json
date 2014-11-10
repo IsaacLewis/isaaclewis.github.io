@@ -17,27 +17,21 @@
     {
       "id":3,"created_at":"2014-08-06","app_name":"Mafia vs. Police","category":"puzzle","play_store_score":3.9,"play_store_url":"https://play.google.com/store/apps/details?id=org.dankolab.MvP",
       "appeal_male":0.81,"appeal_female":0.72,"appeal_13":0.23,"appeal_18":0.7,"appeal_25":0.9,"appeal_35":0.67,"appeal_45":0.5,
-      "description":"MAFIA vs. POLICE is an enthralling puzzle game where you decide whether to evolve the Mafia or develop the Police's authority. Become the Godfather or the Attorney General or maybe even somebody higher! Plan your every move carefully; who wins and who ends up ruling the town depends on it.\n\n
-Where there's big money, there are always those who want it. The criminal world always wants to control all the money and the Police constantly opposes it. Who will win, the Mafia or the Police? It all depends on you."
+      "description":"MAFIA vs. POLICE is an enthralling puzzle game where you decide whether to evolve the Mafia or develop the Police's authority. Become the Godfather or the Attorney General or maybe even somebody higher! Plan your every move carefully; who wins and who ends up ruling the town depends on it.\n\nWhere there's big money, there are always those who want it. The criminal world always wants to control all the money and the Police constantly opposes it. Who will win, the Mafia or the Police? It all depends on you."
     },
 
 
     {
       "id":4,"created_at":"2014-11-05","app_name":"The Hunger Games: Panem Rising","category":"role playing","play_store_score":4.0,"play_store_url":"https://play.google.com/store/apps/details?id=com.kabam.cnthg",
       "appeal_male":0.81,"appeal_female":0.72,"appeal_13":0.23,"appeal_18":0.7,"appeal_25":0.9,"appeal_35":0.67,"appeal_45":0.5,
-      "description":"You are a resistance leader tasked with forming an advanced rebel team to aid Katniss Everdeen and take back Panem! Enlist your favorite characters to join your squad and liberate the districts from President Snow once and for all. Explore each district in Panem, recruit rebels, and collect resources to aid you in victory. Train your rebels to upgrade your team’s skills or equip your squad with specific tools to unlock unique abilities for your journey.\n\n
-Thousands of players around the globe are joining this cause, but the courage of one will change the world!"
+      "description":"You are a resistance leader tasked with forming an advanced rebel team to aid Katniss Everdeen and take back Panem! Enlist your favorite characters to join your squad and liberate the districts from President Snow once and for all. Explore each district in Panem, recruit rebels, and collect resources to aid you in victory. Train your rebels to upgrade your team’s skills or equip your squad with specific tools to unlock unique abilities for your journey.\n\nThousands of players around the globe are joining this cause, but the courage of one will change the world!"
     },
 
 
     {
       "id":5,"created_at":"2014-11-06","app_name":"Mark of the Dragon","category":"strategy","play_store_score":4.2,"play_store_url":"https://play.google.com/store/apps/details?id=com.gamevilusa.markofthedragon.android.google.global.normal",
       "appeal_male":0.81,"appeal_female":0.72,"appeal_13":0.23,"appeal_18":0.7,"appeal_25":0.9,"appeal_35":0.67,"appeal_45":0.5,
-      "description":"- Raise powerful dragons and ride them to conquer your enemies in strategic battles!\n
-- Collect a variety of dragons with unique skills and experience the thrill of flying them into battle!\n
-• Multiplayer Raid Battles •\n
-- Battle with other players worldwide to steal resources, Honor Points and precious dragon eggs!\n
-- Build the ultimate defense to protect your kingdom from other players' invasions!"
+      "description":"- Raise powerful dragons and ride them to conquer your enemies in strategic battles!\n- Collect a variety of dragons with unique skills and experience the thrill of flying them into battle!\nMultiplayer Raid Battles\n- Battle with other players worldwide to steal resources, Honor Points and precious dragon eggs!\n- Build the ultimate defense to protect your kingdom from other players' invasions!"
     }
   ]
 }
