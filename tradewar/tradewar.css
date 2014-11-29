@@ -1,0 +1,20 @@
+table {
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+
+table td {
+    border: 1px solid black;
+}
+
+.up-btn {
+    font-weight: bold;
+    width: 20px;
+    background-color: #2ff;
+}
+
+.down-btn {
+    font-weight: bold;
+    width: 20px;
+    background-color: #f22;
+}
