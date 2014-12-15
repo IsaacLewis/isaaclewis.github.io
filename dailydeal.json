@@ -1,7 +1,19 @@
 {
-    "app":{
-	"id":2,"created_at":"2014-11-08","app_name":"Global Assault","category":"Strategy","play_store_score":3.8,"package_name":"com.kongregate.mobile.globalassault.google",
-	"appeal_male":0.81,"appeal_female":0.72,"appeal_13":0.23,"appeal_18":0.7,"appeal_25":0.9,"appeal_35":0.67,"appeal_45":0.5,
-	"description":"Global Assault is a FREE, squad-based RPG with tremendous 3D graphics! Take control of Havoc and adventure around the globe while competing against other players!"
+    app: {
+	daily_deal: true,
+	description: "Play the most EXCITING RUNNER game on the Play Store.",
+	play_store_score: 4.1,
+	dislike_count: 0,
+	created_at: "2014-12-12 11:54:30",
+	play_store_url: "https://play.google.com/store/apps/details?id=com.fungames.ninjarunfree",
+	image_url: "https://lh3.ggpht.com/k2WkEdENt5ULYLeEjJLlWP5W6Z_eSu2sJT_ODfTUktpOQ2rMMGQSJFokMLsreN4Okw=w300",
+	category: "Action",
+	package_name: "com.fungames.ninjarunfree",
+	app_name: "Ninja Kid Run Free - Fun Game",
+	share_count: 0,
+	id: 6606415615492096,
+	download_count: 0,
+	screenshot_urls: "https://lh3.ggpht.com/k2WkEdENt5ULYLeEjJLlWP5W6Z_eSu2sJT_ODfTUktpOQ2rMMGQSJFokMLsreN4Okw=w300",
+	like_count: 0
     }
 }
