@@ -119,7 +119,7 @@ var go = function() {
 
     box.style.background = "url(" + canvas.toDataURL() + ")";
 
-    setTimeout(function() {go();}, 100);
+    setTimeout(function() {go();}, 500);
 }
 
 go();

@@ -51,7 +51,6 @@ body {
     text-align: center;
 }
 
-
 #fractal-box .big-logo {
     margin-top: 100px;
     height: 240px;
@@ -78,10 +77,15 @@ body {
 
 
 .blue-bar {
-    background-color: #2e3341;
+    background-color: #3c4352;
     color: #eaf0f0;
     overflow: visible;
     padding: 20px 0 20px;
+}
+
+.our-process {
+    background: url("../img/fractal_tree.png") #3c4352 no-repeat;
+    height: 600px;
 }
 
 .white-bar {
