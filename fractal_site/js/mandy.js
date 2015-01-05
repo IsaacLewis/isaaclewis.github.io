@@ -82,23 +82,29 @@ var xd2 = -0.5 - target_x;
 var yd1 = -0.7 - target_y;
 var yd2 = -0.5667 - target_y;
 
-var i = 666;
+var i = 97;
 
 var mousedover = false;
 
 var canvas = document.getElementById('canvas');
 var box = document.getElementById("fractal-box");
 
+var timeout;
+
 box.addEventListener("mouseenter", function() {
     mousedover = true;
+    clearTimeout(timeout);
+    go();
 });
 
 box.addEventListener("mouseleave", function() {
     mousedover = false;
+    clearTimeout(timeout);
+    go();
 });
 
 box.addEventListener("click", function() {
-    i += 20;
+    i += 5;
 });
 
 
@@ -112,17 +118,17 @@ var go = function() {
 	}
     }
 
-    var w = Math.pow(0.996,i);
+    var w = Math.pow(0.97,i);
     var iter = 300 + i*2;
 
     Mandelbrot(box.offsetWidth, box.offsetWidth * 0.667, target_x + (xd1*w), target_x + (xd2*w), target_y + (yd1*w), target_y + (yd2*w), iter);
 
     box.style.background = "url(" + canvas.toDataURL() + ")";
 
-    setTimeout(function() {go();}, 500);
+    // timeout = setTimeout(function() {go();}, 2000);
 }
 
-go();
+// go();
 
 // dark blue gray = 46, 51, 65 (#2e3341)
 // bright turqouise = 77, 242, 220 (#4df2dc)

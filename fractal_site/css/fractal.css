@@ -28,6 +28,10 @@ body {
     background-color: #333c50;
 }
 
+.top-navbar li a:visited {
+    background-color: #333c50;
+}
+
 .top-navbar li a {
     font-size: 18px;
     font-weight: lighter;
@@ -69,12 +73,43 @@ body {
     line-height: 72px;
 }
 
-.grey-bar {
-    background: url('../img/grey-paper.png') repeat center center;
-    overflow: visible;
-    padding: 20px 0 20px;
+.solutions-box {
+    padding-bottom: 80px;
 }
 
+.solutions-box .squares-icon {
+    margin-top: 95px;
+    margin-bottom: 35px;
+}
+
+.solutions-box img {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.container p {
+    font-size: 21px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    line-height: 28px;
+}
+
+.blue-box p {
+    color: #eaf0f0;
+}
+
+.grey-text {
+}
+
+.green-header {
+    color: #5ff2e2;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 44px;
+    font-size: 28px;
+    margin-bottom: 22px;
+    text-align: center;
+}
 
 .blue-bar {
     background-color: #3c4352;
@@ -83,13 +118,59 @@ body {
     padding: 20px 0 20px;
 }
 
-.our-process {
+.process-box {
     background: url("../img/fractal_tree.png") #3c4352 no-repeat;
-    height: 600px;
+    background-size: 45%;
+    background-position: left bottom;
+    height: 615px;
+}
+
+.process-box h2, .about-box h2 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 44px;
+    font-size: 28px;
+    margin-bottom: 22px;
+    color: #eaf0f0;
+}
+
+.about-box h2 {
+    margin-bottom: 35px;
+}
+
+.process-box .row {
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.process-box .row p {
+    margin-top: 12px;
 }
 
 .white-bar {
     padding: 20px 0 20px;
+}
+
+.case-studies-box {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.case-studies-box h2 {
+    margin-bottom: 50px;
+}
+
+.case-studies-box h3 {
+    letter-spacing: 1px;
+    line-height: 44px;
+    font-size: 23px;
+    margin-bottom: 22px;
+    text-align: center;
+}
+
+.case-studies-box p {
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .wrap {
