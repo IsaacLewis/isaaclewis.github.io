@@ -125,10 +125,10 @@ var go = function() {
 
     box.style.background = "url(" + canvas.toDataURL() + ")";
 
-    // timeout = setTimeout(function() {go();}, 2000);
+    timeout = setTimeout(function() {go();}, 2000);
 }
 
-// go();
+go();
 
 // dark blue gray = 46, 51, 65 (#2e3341)
 // bright turqouise = 77, 242, 220 (#4df2dc)
