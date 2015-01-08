@@ -123,7 +123,7 @@ var go = function() {
 
     Mandelbrot(box.offsetWidth, box.offsetWidth * 0.667, target_x + (xd1*w), target_x + (xd2*w), target_y + (yd1*w), target_y + (yd2*w), iter);
 
-    box.style.background = "url(" + canvas.toDataURL() + ")";
+    // box.style.background = "url(" + canvas.toDataURL() + ")";
 
     timeout = setTimeout(function() {go();}, 2000);
 }

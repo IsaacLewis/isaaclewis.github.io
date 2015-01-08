@@ -74,7 +74,10 @@ body {
 }
 
 .solutions-box {
+    padding-top: 25px;
+    background-color: #3c4352;
     padding-bottom: 80px;
+    color: #eaf0f0;
 }
 
 .solutions-box .squares-icon {
@@ -102,7 +105,7 @@ body {
 }
 
 .green-header {
-    color: #5ff2e2;
+    color: #eaf0f0;
     text-transform: uppercase;
     letter-spacing: 2px;
     line-height: 44px;
@@ -135,7 +138,6 @@ body {
 }
 
 .about-box h2 {
-    margin-left: 20px;
     margin-bottom: 35px;
 }
 
@@ -153,15 +155,19 @@ body {
 }
 
 .case-studies-box {
-    padding-top: 80px;
+    background-color: #3c4352;
+    padding-top: 40px;
     padding-bottom: 80px;
+    border-bottom: 1px solid #2c3342;
 }
 
 .case-studies-box h2 {
+    color: #eaf0f0;
     margin-bottom: 50px;
 }
 
 .case-studies-box h3 {
+    color: #eaf0f0;
     letter-spacing: 1px;
     line-height: 44px;
     font-size: 23px;
@@ -170,6 +176,7 @@ body {
 }
 
 .case-studies-box p {
+    color: #eaf0f0;
     padding-left: 15px;
     padding-right: 15px;
 }
