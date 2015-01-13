@@ -6,10 +6,10 @@ body {
 }
 
 .top-navbar {
-    background-color: #3c4352;
-    color: #eaf0f0;
+    background-color: #fff;
+    color: #636874;
     height: 70px;
-    border-bottom: 1px solid #bacef0;
+    border-bottom: 1px solid #636874;
 }
 
 .navbar-brand {
@@ -25,17 +25,17 @@ body {
 }
 
 .top-navbar li a:hover {
-    background-color: #333c50;
+    background-color: #eee;
 }
 
 .top-navbar li a:visited {
-    background-color: #333c50;
+    background-color: #eee;
 }
 
 .top-navbar li a {
     font-size: 18px;
-    font-weight: lighter;
-    color: #eaf0f0;
+    font-weight: normal;
+    color: #636874;
     padding: 24px 25px;
     letter-spacing: 1px;
 }
@@ -43,8 +43,8 @@ body {
 #fractal-box {
     padding: 50px 0 70px;
     margin-bottom: 70px;
-    background-color: #3c4352;
-    color: #eaf0f0;
+    // background-color: #3c4352;
+    color: #636874;
 }
 
 #fractal-box h1, #fractal-box h2, #fractal-box .big-logo {
@@ -56,8 +56,8 @@ body {
 }
 
 #fractal-box .big-logo {
-    margin-top: 100px;
-    height: 240px;
+    margin-top: 10px;
+    height: 340px;
 }
 
 #fractal-box h1 {
@@ -75,9 +75,9 @@ body {
 
 .solutions-box {
     padding-top: 25px;
-    background-color: #3c4352;
+    // background-color: #3c4352;
     padding-bottom: 80px;
-    color: #eaf0f0;
+    color: #636874;
 }
 
 .solutions-box .squares-icon {
@@ -98,14 +98,14 @@ body {
 }
 
 .blue-box p {
-    color: #eaf0f0;
+    color: #636874;
 }
 
 .grey-text {
 }
 
 .green-header {
-    color: #eaf0f0;
+    color: #636874;
     text-transform: uppercase;
     letter-spacing: 2px;
     line-height: 44px;
@@ -115,16 +115,16 @@ body {
 }
 
 .blue-bar {
-    background-color: #3c4352;
-    color: #eaf0f0;
+    // background-color: #3c4352;
+    color: #636874;
     overflow: visible;
     padding: 20px 0 20px;
 }
 
 .process-box {
-    background: url("../img/fractal_tree.png") #3c4352 no-repeat;
-    background-size: 45%;
-    background-position: left bottom;
+    //background: url("../img/fractal_tree.png") #3c4352 no-repeat;
+    //background-size: 45%;
+    //background-position: left bottom;
     height: 615px;
 }
 
@@ -134,7 +134,7 @@ body {
     line-height: 44px;
     font-size: 28px;
     margin-bottom: 22px;
-    color: #eaf0f0;
+    color: #636874;
 }
 
 .about-box h2 {
@@ -155,19 +155,18 @@ body {
 }
 
 .case-studies-box {
-    background-color: #3c4352;
+    //background-color: #3c4352;
     padding-top: 40px;
     padding-bottom: 80px;
-    border-bottom: 1px solid #2c3342;
 }
 
 .case-studies-box h2 {
-    color: #eaf0f0;
+    color: #636874;
     margin-bottom: 50px;
 }
 
 .case-studies-box h3 {
-    color: #eaf0f0;
+    color: #636874;
     letter-spacing: 1px;
     line-height: 44px;
     font-size: 23px;
@@ -176,7 +175,7 @@ body {
 }
 
 .case-studies-box p {
-    color: #eaf0f0;
+    color: #636874;
     padding-left: 15px;
     padding-right: 15px;
 }
@@ -201,6 +200,16 @@ body {
     text-align: right;
     position: relative;
     top: -8px;
+}
+
+.big-logo {
+}
+
+.grey-bg {
+    padding: 3px;
+}
+
+p, h1, h2 {
 }
 
 #canvas {
